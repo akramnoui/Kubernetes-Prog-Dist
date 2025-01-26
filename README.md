@@ -12,7 +12,9 @@
 - [Conclusion](#conclusion)
 
 ---
-
+###Réalisé Par 
+- Moussa Akram NOUI
+- Mohamed Achref NOUI
 ## Vue d'ensemble
 
 Ce projet illustre la mise en place d'une architecture multi-services avec Kubernetes et Istio. L'objectif est de déployer deux services (backend et frontend), de les faire communiquer entre eux via Kubernetes, et d'exposer ces services de manière sécurisée grâce à Istio.
